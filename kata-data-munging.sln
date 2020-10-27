@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2000
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "kata-data-munging", "kata-data-munging\kata-data-munging.csproj", "{551E9AA6-F62D-49D9-A1D1-6ACA9A950BF0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{551E9AA6-F62D-49D9-A1D1-6ACA9A950BF0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{551E9AA6-F62D-49D9-A1D1-6ACA9A950BF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{551E9AA6-F62D-49D9-A1D1-6ACA9A950BF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{551E9AA6-F62D-49D9-A1D1-6ACA9A950BF0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {58D7810B-7734-42A2-B970-52EDE9DDE57D}
+	EndGlobalSection
+EndGlobal
